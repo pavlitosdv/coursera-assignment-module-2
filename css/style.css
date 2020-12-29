@@ -1,0 +1,24 @@
+li {
+    text-align: center;
+    border: 3px solid;
+    background-color: blueviolet;
+    
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+.row{
+    background-color: rgb(172, 151, 151);
+}
+
+@media(max-width: 851px){
+.row{
+    margin: 15px;
+}
+}
